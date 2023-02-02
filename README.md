@@ -2,7 +2,7 @@
 
 ## Enunciado 📄
 
-1. Ecribir un componente usando React que muestre una lista de logos ProFligt.
+1. Ecribir un componente usando React que muestre una lista de logos ProFlight.
 
    ## Criterios 
 
