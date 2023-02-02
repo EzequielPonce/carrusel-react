@@ -21,7 +21,7 @@
 ## Instalación 🔧
 #### 1 - Clonar dicho repositorio
 
-    git clone https://github.com/EzequielPonce/Prueba.git
+    git clone https://github.com/EzequielPonce/carrusel-react.git
 
 #### 2 - Instalar
 
